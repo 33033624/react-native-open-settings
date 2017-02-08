@@ -11,8 +11,10 @@ npm install react-native-open-settings
 ```
 
 ### iOs
-<p>add `.scodeproj` to libraries </p> 
-<p>add `.a` to Link Bianary With Libraries</p>
+```
+add .scodeproj to libraries  
+add .a to Link Bianary With Libraries
+```
 
 ### Android
 
