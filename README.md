@@ -12,6 +12,8 @@ npm install react-native-open-settings
 
 ### iOS
 Add `React Native Open Settings` to project libraries.
+add `.scodeproj` to libraries  
+add `.a` to Link Bianary With Libraries
 
 ### Android
 
