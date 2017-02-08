@@ -10,10 +10,9 @@ Open your apps settings in the Settings app :P
 npm install react-native-open-settings
 ```
 
-### iOS
-Add `React Native Open Settings` to project libraries.
-add `.scodeproj` to libraries  
-add `.a` to Link Bianary With Libraries
+### iOs
+<p>add `.scodeproj` to libraries </p> 
+<p>add `.a` to Link Bianary With Libraries</p>
 
 ### Android
 
